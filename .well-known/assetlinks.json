@@ -1,0 +1,50 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.aique.pandora.dev",
+            "sha256_cert_fingerprints": [
+                "17:A0:45:BA:CA:0E:BD:A4:21:24:46:5D:D4:B6:E2:80:7E:EC:60:C1:4A:15:ED:74:B9:04:E6:4A:30:09:EB:55"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.aique.pandora.staging",
+            "sha256_cert_fingerprints": [
+                "17:A0:45:BA:CA:0E:BD:A4:21:24:46:5D:D4:B6:E2:80:7E:EC:60:C1:4A:15:ED:74:B9:04:E6:4A:30:09:EB:55"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.aique.pandora.uat",
+            "sha256_cert_fingerprints": [
+                "17:A0:45:BA:CA:0E:BD:A4:21:24:46:5D:D4:B6:E2:80:7E:EC:60:C1:4A:15:ED:74:B9:04:E6:4A:30:09:EB:55"
+            ]
+        }
+    },
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.aique.pandora",
+            "sha256_cert_fingerprints": [
+                "17:A0:45:BA:CA:0E:BD:A4:21:24:46:5D:D4:B6:E2:80:7E:EC:60:C1:4A:15:ED:74:B9:04:E6:4A:30:09:EB:55"
+            ]
+        }
+    }
+]

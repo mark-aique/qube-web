@@ -1,0 +1,22 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "8ZZ6JAQ9UQ.com.aique.pandora.dev",
+                    "8ZZ6JAQ9UQ.com.aique.pandora.stg",
+                    "8ZZ6JAQ9UQ.com.aique.pandora.uat",
+                    "8ZZ6JAQ9UQ.com.aique.pandora"
+                ],
+                "components": [
+                    {
+                        "/": "/queue"
+                    },
+                    {
+                        "/": "/queue/join/*"
+                    }
+                ]
+            }
+        ]
+    }
+}
