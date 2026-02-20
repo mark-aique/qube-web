@@ -85568,7 +85568,7 @@ A.avb.prototype={
 $0(){var s=0,r=A.S(t.H)
 var $async$$0=A.T(function(a,b){if(a===1)return A.P(b,r)
 while(true)switch(s){case 0:new A.akE().ahq()
-$.aIp().pq("seoNameJS",["apple-itunes-app","app-id=com.pandora.aique.dev"])
+$.aIp().pq("seoNameJS",["apple-itunes-app","app-id=com.aique.pandora.dev"])
 A.ayv("dev")
 return A.Q(null,r)}})
 return A.R($async$$0,r)},
